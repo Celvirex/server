@@ -1,12 +1,12 @@
 # GitHub Codespace auto start and keep alive.
 
-This method is a way to host a Minecraft server or any server every for how long on GitHub Codespaces, as I can't afford dedicated hosting.
+This method is a way to host a Minecraft server or any server every for how long on GitHub Codespaces, as I can't afford dedicated hosting. 
 
 ---
 
 ## Getting Started
 
-Follow these instructions to set up your own free Minecraft server hosting using GitHub Codespaces. **PLEASE GIVE ME CREDITS. I FOUND THIS METHOD ALL BY MY OWN RETARDS.**
+Follow these instructions to set up your own free Minecraft server hosting using GitHub Codespaces. 
 
 ### Instructions
 
@@ -31,4 +31,4 @@ You can either learn how to create this file yourself or use my example devconta
 Your Minecraft server or server should now be hosted on GitHub Codespaces. Just remember, it will restart every 4 hours.
 
 ***REMEMBER TO DO NOT MODIFY THE WORKFLOW CRON JOB TO AVOID RATE LIMITING.***
-If you know what your doing and you want it your own cron job, I suggest don't lower it too much like a 1sec or 1min.
+If you know what you're doing and you want it to create own cron job, I suggest don't lower it too much like a 1sec or 1min and this could impact your billing usage if you paid GitHub Pro
