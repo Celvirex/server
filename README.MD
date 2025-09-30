@@ -2,11 +2,6 @@
 
 This method is a way to host a Minecraft server or any server every for how long on GitHub Codespaces, as I can't afford dedicated hosting. Keep in mind that the server will **restart every 4 hours** due to idle time, and it may take a while to start back up.
 
-**Server IP**: `MCSoManyfaces.jsx.pm:25730`
-
-- **Note**: Server restarts every 4 hours, and startup time may vary.
-- No rules or admins—just have fun!
-
 ---
 
 ## Getting Started
