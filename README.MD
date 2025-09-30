@@ -1,6 +1,6 @@
 # GitHub Codespace auto start and keep alive.
 
-This method is a way to host a Minecraft server or any server every for how long on GitHub Codespaces, as I can't afford dedicated hosting. Keep in mind that the server will **restart every 4 hours** due to idle time, and it may take a while to start back up.
+This method is a way to host a Minecraft server or any server every for how long on GitHub Codespaces, as I can't afford dedicated hosting.
 
 ---
 
